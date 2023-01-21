@@ -1,0 +1,2 @@
+# maqadir hricha
+print("ldiiida")
